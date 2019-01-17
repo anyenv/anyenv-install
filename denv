@@ -1,1 +1,1 @@
-install_env "https://github.com/repeatedly/denv.git" "master"
+install_env https://github.com/repeatedly/denv.git
