@@ -6,7 +6,7 @@ Default install manifests for [anyenv](https://github.com/anyenv/anyenv).
 For example, `rbenv`:
 
 ```
-install_env https://github.com/rbenv/rbenv.git"
+install_env https://github.com/rbenv/rbenv.git
 install_plugin ruby-build https://github.com/rbenv/ruby-build.git
 ```
 
